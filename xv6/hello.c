@@ -1,8 +1,12 @@
 // Mary Karroqe
 // HW 1 Part 1
-#include <stdio.h>
+// #include <stdio.h>
+// #include <stdlib.h>
 
-int main() {
-	printf("Hello world\n");
-	return 0;
+#include "types.h"
+#include "user.h"
+
+int main(void) {
+	printf(0, "Hello world\n");
+	exit();
 }
